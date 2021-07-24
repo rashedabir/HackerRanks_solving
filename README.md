@@ -1,5 +1,5 @@
 # HackerRanks solving with certification
 
-![python basic certificate](https://github.com/rashedabir/rashedabir/blob/main/python%20basic.png)
+<img src="https://github.com/rashedabir/rashedabir/blob/main/python%20basic.png" alt="python basic certificate]" />
 
-![react basic certificate](https://github.com/rashedabir/rashedabir/blob/main/react%20basic.png)
+<img src="https://github.com/rashedabir/rashedabir/blob/main/react%20basic.png" alt="react basic certificate" />
